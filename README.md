@@ -2,11 +2,11 @@
 # Redes Neuronales: Deep Learning con PyTorch
 Bienvenido al curso de Deep learning: regresión y series temporales con keras.
 Este curso contiene 5 aulas:
-* Aula 1: Perceptrón
-* Aula 2: Multi Layer Perceptrón - MLP
-* Aula 3: Previsión de la Demanda
-* Aula 4: Entrenando una Red Neuronal
-* Aula 5: Ajustando la Red Neuronal
+* [Aula 1: Perceptrón](https://github.com/estebanvz/redes_neuronales_pytorch/tree/aula-1)
+* [Aula 2: Multi Layer Perceptrón - MLP](https://github.com/estebanvz/redes_neuronales_pytorch/tree/aula-2)
+* [Aula 3: Previsión de la Demanda](https://github.com/estebanvz/redes_neuronales_pytorch/tree/aula-3)
+* [Aula 4: Entrenando una Red Neuronal](https://github.com/estebanvz/redes_neuronales_pytorch/tree/aula-4)
+* [Aula 5: Ajustando la Red Neuronal](https://github.com/estebanvz/redes_neuronales_pytorch/tree/aula-5)
   
 ## Acceder a las clases
 
